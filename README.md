@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Ramirez</h1>
-<h3 align="center">A passionate frontend developer and design student</h3>
+<h3 align="center">A passionate full stack developer and design student</h3>
 
-- 🔭 I’m currently working on [Lowercase sentences extension](https://github.com/Kevin-Ramirez127/lowercase-sentences)
-
-- 🌱 I’m currently learning **React development, design**
+- 🌱 I’m currently learning **Backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kevin-Ramirez127](https://github.com/Kevin-Ramirez127)
 
