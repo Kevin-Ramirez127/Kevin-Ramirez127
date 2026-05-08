@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin Ramirez</h1>
-<h3 align="center">A passionate full stack developer and design student</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kevin-Ramirez127](https://github.com/Kevin-Ramirez127)
+- 👨‍💻 All of my projects are available at [https://www.ramirezkevin.dev/](https://www.ramirezkevin.dev/)
 
 - 💬 Ask me about **react, javascript, DOM, chrome extensions**
 
 - 📫 How to reach me **kevinsilvaram@gmail.com**
-
-- 😄 Pronouns: He/him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
